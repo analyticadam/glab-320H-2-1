@@ -24,9 +24,6 @@ Inspired by: The Star Wars universe and my learning journey with React.
 
 Here’s a simple README.md file for your first Star Wars-themed React application:
 
-markdown
-Copy code
-
 # Star Wars React Application
 
 Welcome to my **first React application**! 🚀 This simple app pays homage to _Star Wars_ with a themed layout and motivational quotes for aspiring Jedi developers.
@@ -42,30 +39,6 @@ Welcome to my **first React application**! 🚀 This simple app pays homage to _
 - **React**: For building the user interface.
 - **CSS (Inline Styling)**: For minimal styling directly in the components.
 - **JavaScript (ES6)**: For logic and React component structure.
-
-## How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/star-wars-react-app.git
-   Navigate into the project directory:
-   bash
-   Copy code
-   cd star-wars-react-app
-   Install dependencies:
-   bash
-   Copy code
-   npm install
-   Run the development server:
-   bash
-   Copy code
-   npm run dev
-   Open your browser and visit:
-   arduino
-   Copy code
-   http://localhost:5173
-   Screenshots
-   ```
 
 ## Star Wars Quotes Included
 
