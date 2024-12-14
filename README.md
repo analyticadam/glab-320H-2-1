@@ -22,7 +22,7 @@ Welcome to my **first React application**! 🚀 This simple app pays homage to _
 
 ## Credits
 
-Created by: [Your Name]
+Created by: Adam Farley
 Inspired by: The Star Wars universe and my learning journey with React.
 
 ## License
